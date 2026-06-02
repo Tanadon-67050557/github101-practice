@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ธนดล คล้ายคลึง | Team 19| Sprint:Embedded / IoT Developer |(67050557-Tanadon.md) | - |
+| ธนดล คล้ายคลึง | Team 19| Sprint:Embedded / IoT Developer |([67050557-Tanadon.md](https://github.com/Tanadon-67050557/github101-practice/blob/main/docs/evidence/67050557-Tanadon.md)) | - |
 
 ---
 
